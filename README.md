@@ -1,6 +1,6 @@
 # Scientist’s Mission (0153B046, 唐玉珍)
 
-[GitHub README](https://github.com/icen13/0153B046_tp53/blob/main/README.md)
+[GitHub README](https://github.com/icen13/tp53.0153B046/blob/main/README.md)
 
 # Who Stole TP53’s Superpower? Searching for the Key to Unlock Cancer
 
